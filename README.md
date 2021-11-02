@@ -4,8 +4,8 @@
 
 Author : Robin (Abishek Roka) Pradhan
 CSS Tool : Boostrap
-Repo : 
-Github Page : 
+Repo : https://github.com/compsigh-url/cpnt201-a5
+Github Page : https://compsigh-url.github.io/cpnt201-a5/
 
 ## Code Review
 
